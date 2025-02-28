@@ -31,7 +31,6 @@ class Employee {
 
 public class EmployeeMain {
     public static void main(String[] args) {
-        // Creating three Employee objects
         Employee emp1 = new Employee(101, "Simit Modi", "Software Engineer", 50000);
         Employee emp2 = new Employee(102, "Rahul Agrawal", "Manager", 75000);
         Employee emp3 = new Employee(103, "Prem Chopra", "HR", 45000);
